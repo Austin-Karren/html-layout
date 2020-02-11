@@ -1,0 +1,29 @@
+.header {
+    margin: 0;
+    width: 100%;
+    height: 100px;
+    background-color: darkslategray;
+}
+
+body {
+    width: 100;
+    height: 700px;
+    background-color: lavender;
+    margin: 0;
+}
+
+.main-content {
+    float: center;
+    background-color: lightcoral;
+    height: 700px;
+    width: 80%;
+    margin: auto;
+}
+
+.footer {
+    float: center;
+    background-color: lightseagreen;
+    height: 100px;
+    width: 80%;
+    margin: auto;
+}
