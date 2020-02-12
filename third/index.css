@@ -1,0 +1,43 @@
+.header {
+    height: 100px;
+    width: 100%;
+    background-color: lightgray;
+    margin: 0;
+}
+
+.box-1 {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: royalblue;
+    margin: 10px 20px;
+}
+
+.main-body {
+    background-color: #fff;
+    box-sizing: border-box;
+    padding: 50px;
+    font-size: 25px;
+    letter-spacing: 5px;
+}
+
+.section {
+    height: 100px;
+    width: 100%;
+}
+
+.section-1 {
+    background-color: royalblue;
+}
+
+.section-2 {
+    background-color: turquoise;
+}
+
+.section-3 {
+    background-color: yellowgreen;
+}
+
+.section-4 {
+    background-color: yellow;
+}
